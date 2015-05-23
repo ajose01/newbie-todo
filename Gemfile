@@ -24,6 +24,9 @@ gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 # Use Devise for user authentification
 gem 'devise'
+# Use bootstrap-sass to format css
+gem 'bootstrap-sass'
+gem "autoprefixer-rails"
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
